@@ -19,48 +19,63 @@
 
 
 \begin{frame}
-\frametitle{Stylized Facts }
+\frametitle{Context }
 \begin{itemize}
-    \item Effective global capital income taxes have increased since 1995 due to hyper-globalization. 
-    \item By increasing the concentration
-of economic activity in formal corporate structures relative to smaller informal businesses, trade liberalization facilitates the imposition of taxes, particularly of corporate taxes.
-\item Trade liberalization can explain 18-41\% of the
-rise in effective capital tax rates in developing countries.
+    \item Use loan decisions data from a big Greek Bank.
+    \item After algorithm assigns the scores, bank managers make decisions after considering soft information such as potential real income.
+    \item Data is universe of credit applications including those rejected.
+    \item Tax data includes total income reported and total no of households at postal code and occupation level.
+    \item Occupations: self-employed, wage workers,merchants and agriculture
+    
 \end{itemize}
 \end{frame}
 
 \begin{frame}{Methods}
 \begin{itemize}
-\item Effective tax rate of any factor is total taxes collected on that factor divided by the income of that factor. 
-\item The challenge is how to measure labor income, capital income and taxes paid. One needs to allocate both income and taxes paid to these two factors. 
-\item You will have to assign a portion of each type of tax revenue to one of two factors. 
-\begin{enumerate}
-    \item Corporate income, wealth, and property taxes are allocated to capital. 
-    \item Payroll and social taxes are allocated to labor. 
-    \item Personal Income taxes are allocated to both in country-time specific manner.
-\end{enumerate}
-\item Net GDP is decomposed into labor and capital income, where 
-\[Y_L = CE+ \phi.OS_{PUE} \]
-\[Y_K = (1-\phi) . OS_{PUE}+OS_{CORP}+ OS_{HH}\]
-
+    \item Banks decide level of credit as a linear combination of their assessed true income, risk level and other area X individual soft skills.
+    \[credit=\beta_1 Y^{True}+\Phi Risk+\Psi
+    SOFT\]
+    \item In data, you observe reported income $Y^R$. They use $credit$ to infer $Y^{True}$.
+    \item Assume that 
+    \[Y_{ij}^{True}= \begin{cases}
+			\lambda_j Y_{ij}^{R}, & \text{if self-employed}\\
+            Y_{ij}^R, & \text{if wage worker}
+		 \end{cases}\]
+   \item Use this to break credit equation to 
+   \[credit_{ij}=\beta_{1j}Y^R{ij}(1-SE_i)+\beta_{2j}Y^R SE_i+f.e^{CreditGrade}+SOFT_{ij}\Psi
+   \]
+   $\lambda$ is ratio of the two betas. What are identifying assumptions of this equation?
 \end{itemize}
 \end{frame}
 
-\begin{frame}{Trade offs}
-\begin{itemize}
-    \item SS can be implemented under weaker assumptions. 
-    \item What it actually identifies is credible and transparent. 
-    \item We can always use SS even when we are not exactly sure about the model that generates this behaviour. 
-    \item But you always need a formula for every economic question. It does not capture every aspect of the model. 
-    \item This also cannot help with out of sample predictions in comparison to structural models.
-\end{itemize}    
+\begin{frame}{Results}
+    \begin{figure}
+        \centering
+                \caption{Debt Capacity}
+\includegraphics[height=\textheight,keepaspectratio]{Paper Presentations/R1.png}
+    \end{figure}
+\end{frame}
+
+\begin{frame}{Results}
+    \begin{figure}
+        \centering
+                \caption{Estimates}
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{Paper Presentations/T2.png}
+    \end{figure}
+\end{frame}
+
+\begin{frame}{Results}
+    \begin{figure}
+        \centering
+                \caption{Mortgage Sample}
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{Paper Presentations/T4.png}
+    \end{figure}
 \end{frame}
 
 \begin{frame}
-\frametitle{Methodology}
+\frametitle{Results}
 \begin{itemize}
-    \item Framework of the sufficient-statistic approach.
-    \item Key formulas and models.
+    \item A $\lambda$ of 1.75 translates into 43\% evasion rate.
 \end{itemize}
 \end{frame}
 
