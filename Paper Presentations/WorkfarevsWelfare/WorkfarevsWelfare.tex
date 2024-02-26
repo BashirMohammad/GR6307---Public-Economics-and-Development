@@ -44,7 +44,7 @@
 \end{itemize}
 \end{frame}
 
-\begin{frame}{Baseline Poverty Alleviation Program (PAP) with perfect information}
+\begin{frame}[allowframebreaks]{Baseline Poverty Alleviation Program (PAP) with perfect information}
 \begin{itemize}
     \item We consider a population consisting of n
  individuals, divided into two types according
@@ -57,70 +57,86 @@
  \item The to govt is $n \gamma b_L + n(1-\gamma) b_H$
  \item The govt objective is to minimize cost and ensure each individual gets at least z dollars. 
  \item Both types of individuals choose whether to claim benefits.
-\end{itemize}
 
-\end{frame}
-
-\begin{frame}{PAP Continued }
-\begin{itemize}
     \item The private sector labor supply if individual accepts the program is 
-    \[l(b,c,a_i )= \case \]
+\[
+l(b,c,a_i) = 
+\begin{cases}
+    \hat{l}(a_i) & \text{if } c \leq \hat{l}(a_) \\
+    0 & otherwise \\
+\end{cases}
+\]
+where $\hat{l}(a_i)$ is the labor supply of individual of type i in the absence of the program.
+\item A work requirement smaller than $\hat{l}(a_i)$ will result in equal reduction in private sector labor supply. 
+\item There is no income effect and therefore labor supply is independent of $b_i$.
+\item Total private sector earnings given this labor supply are 
+\[y(c,a_i)= \begin{cases}
+    a_i ( \hat{l}(a_i) - c) & \text{if } c \leq \hat{l}(a_i) \\     
+    0 & otherwise \\
+\end{cases} \]
+\item Therefore total utlity v is 
+\[v(b,c,a_i) = b+y(c,a_i) - h(l(c,a_i)+c)\]
+\item The individual voluntarily accepts the program if and only if $v(b,c,a_i) \geq v(0,0,a_i)$
+\item Assume that only one group will be eligible i.,e $y(0,a_H)>z>y(0,a_L)$.
+\item In baseline case, assume that $a_H$ and $a_L$ are exogenous and obserable. Then, policy maker minimizes the cost and follows two constraints: 
+\begin{itemize}
+    \item Voluntary participation constraint: $v(b,c,a_i) \geq v(0,0,a_i)$ for both types of individuals.
+    \item Poor $(a_L)$ must escape poverty and end up with z earnings i.,e $y(c_L,a_L)+b_L \geq z$.
+     \end{itemize}
+
+    \item The solution is that high-ability indivdiuals should not get any transfer while low ability individuals should get a transfer of $z-y(0,a_L)$. However, they should not be requird to work as that would just reduce their private sector labor supply and increase benefits while public program do not have any benefit to society. 
+    \item This is our benchmark PAP with perfect information.
+
+
 \end{itemize}
+
 \end{frame}
 
-\begin{frame}{RMTR}
-\begin{figure}
-    \centering
-    \includegraphics[width=\textwidth,height=0.8\textheight]{Paper Presentations/The State Capacity Ceiling on Tax Rates/T3.png}
-    \label{fig:enter-label}
-\end{figure}
-\end{frame}
+\begin{frame}[allowframebreaks]{Screening Argument}
 
-\begin{frame}{RMTR and Enforcement}
-\begin{figure}
-    \centering
-    \includegraphics[height=\textheight,width=\textwidth]{Paper Presentations/The State Capacity Ceiling on Tax Rates/F1.png}
-    \label{fig:enter-label}
-\end{figure}
-\end{frame}
-
-
-
-\begin{frame}
-\frametitle{Rates and Enforcement as Complements}
-\begin{figure}
-    \centering
-    \includegraphics[height=0.9\textheight,width=\textwidth]{Paper Presentations/The State Capacity Ceiling on Tax Rates/F2.png}
-\end{figure}
-\end{frame}
-
-\begin{frame}{Questions}
     \begin{itemize}
-        \item Does it mean that when tax rate is lower, it is not optimal for taxpayers to evade it and therefore they pay it?
-        \item Does it mean governments with weak state capacity should start with very low tax rates?
-        \item What does this mean for other taxes, in particular taxation of businesses?
-        \item It is very important to think about this question in public finance that when govt has very low capacity and they want to start raising revenue to build the capacity, what are lessons there?
+        \item Suppose policy maker cannot observe potential or actual earnings of individuals. 
+        \item Then, PAP is not implementable.The optimal policy now depends on govt's information set. There are two cases:
+        \begin{itemize}
+            \item Govt cannot observe both potential and actual earnings.
+            \item Govt can observe actual earnings but not potential earnings.
+        \end{itemize}
     \end{itemize}
 \end{frame}
-\begin{frame}
-\frametitle{Conclusions}
+
+\begin{frame}[allowframebreaks]{Unobservable private sector earnings }
 \begin{itemize}
-\item Tax rates and enforcement are thus complementary levers. 
-\item Jointly optimizing tax rates and
-enforcement would lead to 26\% higher revenue gains than optimizing them independently.
-\item These
-findings provide experimental evidence that low government enforcement capacity sets a binding
-ceiling on the revenue-maximizing tax rate in some developing countries, thereby demonstrating
-the value of increasing tax rates in tandem with enforcement to expand fiscal capacity
+    \item Now you need incentive capability constraint that $v(b_L,c_L,a_L) \geq v(b_H,c_H,a_L) $ and $v(b_H,c_H,a_H) \geq v(b_L,c_L,a_H)$. Essentially, we want that each individual to choose the program that is best for them.
+    \item If you cannot choose the work requirement, then obvious solution to these constraints is $b_L = b_H$. 
+    \item However, with work requirement for low type workers, one can introduce the self-selection. 
 \end{itemize}
+
+
+
+
+\begin{figure}  
+\includegraphics[width=0.8\textwidth]{F1.png}
+\end{figure}    
+
+\begin{itemize}
+    \item There is now an extra cost because low ability individual reduces private sector labor supply and work c is not productive. So, govt has to balance this trade-off. 
+    \item Govt chooses optimal separating work requirement $c^s_L$ such that high ability individuals are indifferent between choosing the program and not choosing the program while at the same time it is sufficient to get the poor to poverty line z. This is given by 
+    \[v(0,0,a_H) = v(z-y(c^s_L , a_L), c^s_L,a_H)\]
+
+\item This leads to our 2nd propostion: 
+
+PROPOSITION 2: If both income-generating abilities and incomes are unobservable, one of the following two PAP's is cost minimizing: 
+\begin{enumerate}
+    \item (welfare) impose no work requirements and offer both ability groups a transfer
+ of $z - y(0, a_L)$
+ \item  (ii) (workfare) offer self-categorized high-ability individuals no benefits and offer self-categorized low-ability individuals a transfer of $z - y(0, a_L)$ and require them to work $c^s_L$. 
+\end{enumerate}
+\item The choice between these two solutions trades off the savings from giving no
+transfers to the nonpoor against the cost of
+reducing the poor's private-sector earnings.
+\end{itemize}
+
+
 \end{frame}
-
-\end{document}
-
-\begin{frame}
-  \titlepage
-\end{frame}
-
-
 
 \end{document}
