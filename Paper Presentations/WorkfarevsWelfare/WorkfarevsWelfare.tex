@@ -31,7 +31,7 @@
 \begin{itemize}
     \item It is very costly to set up a proxy means testing type rule to target poor. It is particularly costly for developing countries that lack the administrative capacity and data.
     \item In such situations, it may be better to make the relief system self-targeting by laying down conditions for claiming support such that only the truly needy present themselves.
-    \item Even in developing countries, you might observe the earned income but the potential earnings and therefore there remains an argument for screening through workfare. 
+    \item Even in developed countries, you might observe the earned income but not the potential earnings and therefore there remains an argument for screening through workfare. 
   
 \end{itemize}
 \end{frame}
@@ -54,21 +54,21 @@
  has ability $a_L$. Each individual has identical quasi-linear preferences defined over income y and work l. Thus, utility is given by y - h(l) where
  h(.) is increasing and strictly convex.
  \item A PAP is pair of benefits and costs $\{b_i , c_i\}$. $b_i$ is benefit for individual of type i and $c_i$ is the cost. 
- \item The to govt is $n \gamma b_L + n(1-\gamma) b_H$
- \item The govt objective is to minimize cost and ensure each individual gets at least z dollars. 
+ \item The cost to govt is $n \gamma b_L + n(1-\gamma) b_H$
+ \item The govt's objective is to minimize cost and ensure each individual gets at least z dollars. 
  \item Both types of individuals choose whether to claim benefits.
 
     \item The private sector labor supply if individual accepts the program is 
 \[
 l(b,c,a_i) = 
 \begin{cases}
-    \hat{l}(a_i) & \text{if } c \leq \hat{l}(a_) \\
+    \hat{l}(a_i)-c & \text{if } c \leq \hat{l}(a_) \\
     0 & otherwise \\
 \end{cases}
 \]
 where $\hat{l}(a_i)$ is the labor supply of individual of type i in the absence of the program.
 \item A work requirement smaller than $\hat{l}(a_i)$ will result in equal reduction in private sector labor supply. 
-\item There is no income effect and therefore labor supply is independent of $b_i$.
+\item There is no income effect and therefore labor supply is independent of $b_i$. Your optimal total labor supply is still same, but it is now divided between private and public sector.
 \item Total private sector earnings given this labor supply are 
 \[y(c,a_i)= \begin{cases}
     a_i ( \hat{l}(a_i) - c) & \text{if } c \leq \hat{l}(a_i) \\     
@@ -113,7 +113,6 @@ where $\hat{l}(a_i)$ is the labor supply of individual of type i in the absence 
 
 
 
-
 \begin{figure}  
 \includegraphics[width=0.8\textwidth]{F1.png}
 \end{figure}    
@@ -134,9 +133,67 @@ PROPOSITION 2: If both income-generating abilities and incomes are unobservable,
 \item The choice between these two solutions trades off the savings from giving no
 transfers to the nonpoor against the cost of
 reducing the poor's private-sector earnings.
+\item This depends on the relative size of the two groups and their respective wage rates or abilities.
+\item Workfare is more likely to be optimal when the low-ability group is relatively small and their wage rate is relatively high. In this case, loss in earnings due to reduction in labor supply of this group is small. 
 \end{itemize}
 
 
 \end{frame}
+\begin{frame}{Optimal Workfare Requirenent}
+\begin{figure}
+\includegraphics[width=0.8\textwidth]{F2.png}
+\end{figure}
 
+\end{frame}
+
+\begin{frame}[allowframebreaks]{Observable private sector earnings}
+\begin{itemize}
+    \item Now, the policy maker can observe actual(private sector) earnings but not potential earnings.
+    \item Now you can separate poor vs non-poor to some extent by observing their private sector earnings.
+    \item So, rich people will have to earn less in private sector and given their high wage rate, it can be costly to reduce their private sector earnings.
+    \item So, now value of masquerading is lower for the rich. 
+    \item Therefore,benchmark PAP is implementable if and only if $v(0,0,a_H) \geq z-h(\frac{y(0,a_L)}{a_H})$. 
+    \item So, a high-ability individual prefers claiming no benefit to reducing his labor supply to $y(0,a_L)/a_H$.
+
+    \begin{figure}
+    \includegraphics[width=0.8\textwidth]{F3.png}
+    \end{figure}
+\end{itemize}
+
+\end{frame}
+\begin{frame}[allowframebreaks]{The Deterrent Argument}
+\begin{itemize}
+    \item The deterrent argument is that people are poor by choice and therefore public assistance can distort incentives. Model this as effort that can increase the wage rate.
+    \item \textit{Propostion 4} : If income-generating
+    abilities are observable but depend partly on
+    choices made earlier in life, the cost-minimizing PAP either imposes no work requirements
+    and offers low-ability individuals a transfer of
+    z - y(0,aL), or imposes the maximal work
+    requirement $C^m_L$ on low-ability individuals and
+    offers them a transfer of $z-y(0,a_L)$
+    \item $C^m_L$ is requirement that would make them indifferent between status quo and participating into the program. 
+
+  
+\end{itemize}
+
+\begin{figure} 
+\includegraphics[width=0.8\textwidth]{F4.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Conclusion}
+\begin{itemize}
+    \item The paper provides a framework to think about the workfare vs welfare debate. 
+    \item It shows that workfare can be optimal in some cases. 
+    \item It also shows that the optimal workfare requirement depends on the relative size of the two groups and their respective wage rates or abilities.
+    \item The cost of workfare is that it crowds out private sector labor supply and therefore increases costs of poverty alleviation and size of the benefits. 
+    \item However, the benefit of screening through workfare is that reduces transfers to the poor.
+    \item For deterrence , Workfare can
+    only be an effective deterrent if the amount
+    of work demanded is considerably in excess
+    of that which poor individuals would do in
+    the absence of intervention. However, this relies on the fact that govt cares about income not welfare.
+\end{itemize}
+\end{frame}
+    
 \end{document}

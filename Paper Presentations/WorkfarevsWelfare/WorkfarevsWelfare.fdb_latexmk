@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1708924171 "/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/WorkfarevsWelfare/WorkfarevsWelfare.tex" "WorkfarevsWelfare.pdf" "WorkfarevsWelfare" 1708924172 0
-  "/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/WorkfarevsWelfare/WorkfarevsWelfare.tex" 1708924171 7149 2ec1f40c67ba1f77eab57eca032d5162 ""
+["pdflatex"] 1709090065 "/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/WorkfarevsWelfare/WorkfarevsWelfare.tex" "WorkfarevsWelfare.pdf" "WorkfarevsWelfare" 1709090066 0
+  "/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/WorkfarevsWelfare/WorkfarevsWelfare.tex" 1709090065 10383 d1270319afdaf6949bf88bd3c16fd961 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -18,6 +18,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss12.tfm" 1136768653 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm" 1136768653 1296 d77f431d10d47c8ea2cc18cf45346274 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm" 1136768653 1520 ca2bb4b78ac9800bd686e30c6d19ef95 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
@@ -25,6 +26,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm" 1336178347 1676 fb6c6a335484692abff897d6e8965829 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1248133631 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb" 1248133631 24457 5cbb7bdf209d5d1ce9892a9b80a307cc ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb" 1248133631 24393 3b7eb51a67a0a62aec5849271bdb9c2e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb" 1248133631 24420 52dbb8e8aa0069a1b987309557f8d303 ""
@@ -198,10 +200,13 @@
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1698717508 7883455 a5701a8f2d1b2f31aa3ca13e96b0351a ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "F1.png" 1708921549 46414 2858a071ca80b0458b0bbe133064b2bb ""
-  "WorkfarevsWelfare.aux" 1708924172 2497 6e7f089f36aadbd56de6f39d1b9b965c "pdflatex"
-  "WorkfarevsWelfare.nav" 1708924172 1384 5cc20a1cf3e63d11cadaf92077606f86 "pdflatex"
-  "WorkfarevsWelfare.out" 1708924171 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "WorkfarevsWelfare.tex" 1708924171 7149 2ec1f40c67ba1f77eab57eca032d5162 ""
+  "F2.png" 1709084418 103147 9bffc5e26cbcf799804965895c4da772 ""
+  "F3.png" 1709085967 112719 2f81c0009b9073751bfef89a9e106ce7 ""
+  "F4.png" 1709087220 100619 4b8ed7d1a4f19dfca8f8f35550f5f3da ""
+  "WorkfarevsWelfare.aux" 1709090066 3268 5efddec26cb6d12c807731d493335dbe "pdflatex"
+  "WorkfarevsWelfare.nav" 1709090066 1939 75bd1d99f9c8f068e3ffbc085b6c5348 "pdflatex"
+  "WorkfarevsWelfare.out" 1709090066 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "WorkfarevsWelfare.tex" 1709090065 10383 d1270319afdaf6949bf88bd3c16fd961 ""
   (generated)
   "WorkfarevsWelfare.aux"
   "WorkfarevsWelfare.log"
