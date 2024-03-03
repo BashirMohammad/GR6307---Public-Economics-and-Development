@@ -1,0 +1,9 @@
+\frametitle{Institutional Background and Data}
+    \begin{itemize}
+        \item The Social Security Administration (SSA) administers both SSDI and SSI.
+        \item The application process is complex and time-consuming, requiring extensive documentation and medical evidence.
+        \item The authors use a novel dataset of 1.6 million initial disability applications to estimate the effect of application costs on the composition of program participants.
+        \item The dataset includes all initial disability applications filed between 2006 and 2015, and includes detailed information on the characteristics of applicants, the medical evidence they submit, and the outcomes of their applications.
+        \item They use variables such as disability type and severity, age, education, and languages spoken to estimate the effect of application costs on the composition of program participants.
+        \item importantly, study channels through which application costs affect the composition of program participants, use office wait times, processing times and staff counts to quantify congestation at neighborhood offices.
+    \end{itemize}
