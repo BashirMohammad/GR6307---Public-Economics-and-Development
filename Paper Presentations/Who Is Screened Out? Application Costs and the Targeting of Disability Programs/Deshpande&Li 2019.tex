@@ -52,18 +52,29 @@
     \end{figure}
 \end{frame}
 
-\begin{frame}{Treated Zip Codes}
+\begin{frame}{Zip Codes}
     \begin{figure}
         \centering
         \includegraphics[width=0.8\textwidth]{F2.png}
     \end{figure}
 \end{frame}
 
+\begin{frame}{Empirical Strategy}
+    \begin{itemize}
+        \item The SSA office closing in a zip code is considered as a treatment. However, there is some selection in that. Instead, timing of closing is fairly random.
+        \item The zip codes that experience current closings are treatment, and the zip codes that experience closing after 2 years are control. 
+        \item 
+    \end{itemize}
+\end{frame}
+
+
 \begin{frame}{Effect on Applications and Allowances}
     \begin{figure}
         \centering
         \includegraphics[width=0.8\textwidth]{F3.png}
     \end{figure}
+    Larger decline in recipients than applicants implies that closings disproportionately
+discourage applications by those who would have been allowed by SSA adjudicators if they had applied.
 \end{frame}
 
 \begin{frame}{Who is Screened Out?}
@@ -93,9 +104,14 @@
         \centering
         \includegraphics[width=0.8\textwidth]{F5.png}
     \end{figure}
+    For control (unaffected) zip
+    codes, all $ D^\tau_{ct} $
+    are set to zero. For treatment (closing) zip codes, the $ D^\tau_{ct} $ are equal to
+    one when the quarter is $\tau$ quarters after (or before, if negative) the closing 
+
 \end{frame}
 
-\begin{frame}{Robustness II}
+\begin{frame}{Mechanisms}
     \begin{figure}
         \centering
         \includegraphics[width=0.8\textwidth]{F6.png}
@@ -109,11 +125,32 @@
     \end{figure}
 \end{frame}
 
+
+\begin{frame}{Cost and Benefits of Closings}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.8\textwidth]{T6.png}
+    \end{figure}
+    where $\gamma$ is coefficient of relative risk aversion.
+\end{frame}
+
+
+\begin{frame}{Welfare Calculations}
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.8\textwidth]{T7.png}
+    \end{figure}
+\end{frame}
+
+
 \begin{frame}{Conclusion}
     \begin{itemize}
-        \item The authors find that application costs are a key determinant of program participation, and that the targeting of disability programs is sensitive to the stringency of the application process.
-        \item They find that the stringency of the application process affects the composition of program participants, and that the targeting of disability programs is sensitive to the stringency of the application process.
-        \item They also find that the stringency of the application process affects the composition of program participants, and that the targeting of disability programs is sensitive to the stringency of the application process.
+        \item Closings of SSA offices reduces the number of applicants by 10\% and the number of recipients by 16\%.
+        \item These effects persistent even after 2 years of closing.
+        \item The closings disproportionately discourage applications by applicants with lower education and pre-application earnings levels and moderately to severe conditions. 
+        \item Importantly, this increase in hassles costs reduces both production and targeting efficiency.
+        \item The field office closings exacerbate
+        the very inequality that disability programs are intended to mitigate.
     \end{itemize}
 \end{frame}
     

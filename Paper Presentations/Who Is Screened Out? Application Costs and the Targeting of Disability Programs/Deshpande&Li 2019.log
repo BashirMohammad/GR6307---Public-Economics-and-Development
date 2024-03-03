@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.30)  3 MAR 2024 00:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.30)  3 MAR 2024 18:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -736,67 +736,85 @@ Package pdftex.def Info: F2.png  used on input line 60.
 (pdftex.def)             Requested size: 245.83282pt x 128.57811pt.
  [7
 
- <./F2.png>]
-<F3.png, id=201, 855.195pt x 540.0175pt>
+ <./F2.png>] [8
+
+]
+<F3.png, id=226, 855.195pt x 540.0175pt>
 File: F3.png Graphic file (type png)
 <use F3.png>
-Package pdftex.def Info: F3.png  used on input line 67.
+Package pdftex.def Info: F3.png  used on input line 78.
 (pdftex.def)             Requested size: 245.83282pt x 155.23322pt.
- [8
-
- <./F3.png>]
-<T2.png, id=228, 726.715pt x 685.56125pt>
-File: T2.png Graphic file (type png)
-<use T2.png>
-Package pdftex.def Info: T2.png  used on input line 74.
-(pdftex.def)             Requested size: 245.83282pt x 231.90567pt.
  [9
 
+ <./F3.png>]
+<T2.png, id=254, 726.715pt x 685.56125pt>
+File: T2.png Graphic file (type png)
+<use T2.png>
+Package pdftex.def Info: T2.png  used on input line 85.
+(pdftex.def)             Requested size: 245.83282pt x 231.90567pt.
+ [10
+
  <./T2.png>]
-<F4.png, id=256, 669.50125pt x 647.41875pt>
+<F4.png, id=281, 669.50125pt x 647.41875pt>
 File: F4.png Graphic file (type png)
 <use F4.png>
-Package pdftex.def Info: F4.png  used on input line 81.
+Package pdftex.def Info: F4.png  used on input line 92.
 (pdftex.def)             Requested size: 245.83282pt x 237.72348pt.
 
-Overfull \vbox (0.45036pt too high) detected at line 81
+Overfull \vbox (0.45036pt too high) detected at line 92
  []
 
-[10
+[11
 
  <./F4.png>]
-<T3.png, id=283, 689.57625pt x 633.36626pt>
+<T3.png, id=308, 689.57625pt x 633.36626pt>
 File: T3.png Graphic file (type png)
 <use T3.png>
-Package pdftex.def Info: T3.png  used on input line 89.
+Package pdftex.def Info: T3.png  used on input line 100.
 (pdftex.def)             Requested size: 245.83282pt x 225.78886pt.
- [11
-
- <./T3.png>]
-<F5.png, id=310, 945.5325pt x 583.17876pt>
-File: F5.png Graphic file (type png)
-<use F5.png>
-Package pdftex.def Info: F5.png  used on input line 96.
-(pdftex.def)             Requested size: 245.83282pt x 151.6229pt.
  [12
 
- <./F5.png>]
-<F6.png, id=337, 913.4125pt x 615.29875pt>
-File: F6.png Graphic file (type png)
-<use F6.png>
-Package pdftex.def Info: F6.png  used on input line 103.
-(pdftex.def)             Requested size: 245.83282pt x 165.59772pt.
+ <./T3.png>]
+<F5.png, id=335, 945.5325pt x 583.17876pt>
+File: F5.png Graphic file (type png)
+<use F5.png>
+Package pdftex.def Info: F5.png  used on input line 112.
+(pdftex.def)             Requested size: 245.83282pt x 151.6229pt.
  [13
 
- <./F6.png>]
-<T4.png, id=366, 674.52pt x 460.72125pt>
-File: T4.png Graphic file (type png)
-<use T4.png>
-Package pdftex.def Info: T4.png  used on input line 110.
-(pdftex.def)             Requested size: 245.83282pt x 167.9123pt.
+ <./F5.png>]
+<F6.png, id=368, 913.4125pt x 615.29875pt>
+File: F6.png Graphic file (type png)
+<use F6.png>
+Package pdftex.def Info: F6.png  used on input line 119.
+(pdftex.def)             Requested size: 245.83282pt x 165.59772pt.
  [14
 
- <./T4.png>] [15
+ <./F6.png>]
+<T4.png, id=395, 674.52pt x 460.72125pt>
+File: T4.png Graphic file (type png)
+<use T4.png>
+Package pdftex.def Info: T4.png  used on input line 126.
+(pdftex.def)             Requested size: 245.83282pt x 167.9123pt.
+ [15
+
+ <./T4.png>]
+<T6.png, id=422, 984.67876pt x 686.565pt>
+File: T6.png Graphic file (type png)
+<use T6.png>
+Package pdftex.def Info: T6.png  used on input line 135.
+(pdftex.def)             Requested size: 245.83282pt x 171.39987pt.
+ [16
+
+ <./T6.png>]
+<T7.png, id=449, 956.57375pt x 675.52374pt>
+File: T7.png Graphic file (type png)
+<use T7.png>
+Package pdftex.def Info: T7.png  used on input line 143.
+(pdftex.def)             Requested size: 245.83282pt x 173.60143pt.
+ [17
+
+ <./T7.png>] [18
 
 ]
 \tf@nav=\write6
@@ -813,18 +831,18 @@ Package rerunfilecheck Info: File `"Deshpande&Li 2019".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21726 strings out of 476025
- 424492 string characters out of 5790016
+ 21761 strings out of 476025
+ 424983 string characters out of 5790016
  1859388 words of memory out of 5000000
- 41691 multiletter control sequences out of 15000+600000
+ 41718 multiletter control sequences out of 15000+600000
  519037 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,122p,565b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "Deshpande&Li 2019.pdf" (15 pages, 1336468 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "Deshpande&Li 2019.pdf" (18 pages, 1634254 bytes).
 PDF statistics:
- 439 PDF objects out of 1000 (max. 8388607)
- 388 compressed objects within 4 object streams
- 31 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 542 PDF objects out of 1000 (max. 8388607)
+ 475 compressed objects within 5 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 

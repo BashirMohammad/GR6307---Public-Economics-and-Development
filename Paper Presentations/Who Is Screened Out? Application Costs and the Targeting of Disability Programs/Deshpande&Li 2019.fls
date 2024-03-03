@@ -1288,12 +1288,26 @@ INPUT ./T4.png
 INPUT T4.png
 INPUT ./T4.png
 INPUT ./T4.png
+INPUT ./T6.png
+INPUT ./T6.png
+INPUT T6.png
+INPUT ./T6.png
+INPUT ./T6.png
+INPUT ./T7.png
+INPUT ./T7.png
+INPUT T7.png
+INPUT ./T7.png
+INPUT ./T7.png
 OUTPUT Deshpande&Li 2019.nav
 OUTPUT Deshpande&Li 2019.toc
 OUTPUT Deshpande&Li 2019.snm
 INPUT Deshpande&Li 2019.aux
 INPUT ./Deshpande&Li 2019.out
 INPUT ./Deshpande&Li 2019.out
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
