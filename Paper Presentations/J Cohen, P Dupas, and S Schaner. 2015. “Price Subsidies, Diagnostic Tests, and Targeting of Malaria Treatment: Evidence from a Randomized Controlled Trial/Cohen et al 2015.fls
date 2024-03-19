@@ -1,9 +1,9 @@
-PWD /Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024
+PWD /Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex
-OUTPUT Balbon et al 2024.log
+INPUT /Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial/Cohen et al 2015.tex
+OUTPUT Cohen et al 2015.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
@@ -1081,7 +1081,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefaul
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.pdf
-OUTPUT Balbon et al 2024.pdf
+OUTPUT Cohen et al 2015.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.20.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.20.pdf
@@ -1131,10 +1131,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.de
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./Balbon et al 2024.aux
-INPUT Balbon et al 2024.aux
-INPUT Balbon et al 2024.aux
-OUTPUT Balbon et al 2024.aux
+INPUT ./Cohen et al 2015.aux
+INPUT Cohen et al 2015.aux
+INPUT Cohen et al 2015.aux
+OUTPUT Cohen et al 2015.aux
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -1170,17 +1170,17 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT ./Balbon et al 2024.out
-INPUT Balbon et al 2024.out
-INPUT ./Balbon et al 2024.out
-INPUT Balbon et al 2024.out
-INPUT ./Balbon et al 2024.out
-INPUT Balbon et al 2024.out
-INPUT ./Balbon et al 2024.out
-INPUT Balbon et al 2024.out
-INPUT ./Balbon et al 2024.out
-INPUT ./Balbon et al 2024.out
-OUTPUT Balbon et al 2024.out
+INPUT ./Cohen et al 2015.out
+INPUT Cohen et al 2015.out
+INPUT ./Cohen et al 2015.out
+INPUT Cohen et al 2015.out
+INPUT ./Cohen et al 2015.out
+INPUT Cohen et al 2015.out
+INPUT ./Cohen et al 2015.out
+INPUT Cohen et al 2015.out
+INPUT ./Cohen et al 2015.out
+INPUT ./Cohen et al 2015.out
+OUTPUT Cohen et al 2015.out
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
@@ -1205,51 +1205,19 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
-INPUT ./Balbon et al 2024.nav
-INPUT Balbon et al 2024.nav
-INPUT Balbon et al 2024.nav
+INPUT ./Cohen et al 2015.nav
+INPUT Cohen et al 2015.nav
+INPUT Cohen et al 2015.nav
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
-OUTPUT Balbon et al 2024.nav
-OUTPUT Balbon et al 2024.toc
-OUTPUT Balbon et al 2024.snm
-INPUT Balbon et al 2024.aux
-INPUT ./Balbon et al 2024.out
-INPUT ./Balbon et al 2024.out
+OUTPUT Cohen et al 2015.nav
+OUTPUT Cohen et al 2015.toc
+OUTPUT Cohen et al 2015.snm
+INPUT Cohen et al 2015.aux
+INPUT ./Cohen et al 2015.out
+INPUT ./Cohen et al 2015.out
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb

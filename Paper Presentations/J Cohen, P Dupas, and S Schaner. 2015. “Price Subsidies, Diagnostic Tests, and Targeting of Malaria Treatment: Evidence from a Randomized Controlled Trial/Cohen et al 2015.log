@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.31)  19 MAR 2024 18:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.31)  19 MAR 2024 18:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex"
-(/Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex
+**"/Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial/Cohen et al 2015.tex"
+(/Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial/Cohen et al 2015.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
@@ -545,8 +545,8 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count334
 \l__pdf_internal_box=\box76
-) (./Balbon et al 2024.aux)
-\openout1 = `"Balbon et al 2024.aux"'.
+) (./Cohen et al 2015.aux)
+\openout1 = `"Cohen et al 2015.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
@@ -627,9 +627,9 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 9.
- (./Balbon et al 2024.out) (./Balbon et al 2024.out)
+ (./Cohen et al 2015.out) (./Cohen et al 2015.out)
 \@outlinefile=\write5
-\openout5 = `"Balbon et al 2024.out"'.
+\openout5 = `"Cohen et al 2015.out"'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 9.
@@ -692,7 +692,7 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./Balbon et al 2024.nav)
+) (./Cohen et al 2015.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 12.
@@ -700,46 +700,32 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 26.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-) [2
-
-]
 \tf@nav=\write6
-\openout6 = `"Balbon et al 2024.nav"'.
+\openout6 = `"Cohen et al 2015.nav"'.
 
 \tf@toc=\write7
-\openout7 = `"Balbon et al 2024.toc"'.
+\openout7 = `"Cohen et al 2015.toc"'.
 
 \tf@snm=\write8
-\openout8 = `"Balbon et al 2024.snm"'.
+\openout8 = `"Cohen et al 2015.snm"'.
 
- (./Balbon et al 2024.aux)
-Package rerunfilecheck Info: File `"Balbon et al 2024".out' has not changed.
+ (./Cohen et al 2015.aux)
+Package rerunfilecheck Info: File `"Cohen et al 2015".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21599 strings out of 476025
- 422792 string characters out of 5790016
+ 21487 strings out of 476025
+ 420474 string characters out of 5790016
  1858388 words of memory out of 5000000
- 41600 multiletter control sequences out of 15000+600000
- 519037 words of font info for 56 fonts, out of 8000000 for 9000
+ 41511 multiletter control sequences out of 15000+600000
+ 514099 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,122p,506b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "Balbon et al 2024.pdf" (2 pages, 44990 bytes).
+ 128i,14n,122p,643b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb>
+Output written on "Cohen et al 2015.pdf" (1 page, 25472 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 53 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
