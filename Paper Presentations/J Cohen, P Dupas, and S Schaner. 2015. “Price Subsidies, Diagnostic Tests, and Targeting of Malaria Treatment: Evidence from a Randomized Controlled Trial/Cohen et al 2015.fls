@@ -1,8 +1,8 @@
-PWD /Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial
+PWD /Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial/Cohen et al 2015.tex
+INPUT /Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial/Cohen et al 2015.tex
 OUTPUT Cohen et al 2015.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
@@ -1213,6 +1213,66 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
+INPUT ./F2.png
+INPUT ./F2.png
+INPUT F2.png
+INPUT ./F2.png
+INPUT ./F2.png
+INPUT ./F4.png
+INPUT ./F4.png
+INPUT F4.png
+INPUT ./F4.png
+INPUT ./F4.png
+INPUT ./F5.png
+INPUT ./F5.png
+INPUT F5.png
+INPUT ./F5.png
+INPUT ./F5.png
+INPUT ./T3.png
+INPUT ./T3.png
+INPUT T3.png
+INPUT ./T3.png
+INPUT ./T3.png
+INPUT ./T4.png
+INPUT ./T4.png
+INPUT T4.png
+INPUT ./T4.png
+INPUT ./T4.png
+INPUT ./T7.png
+INPUT ./T7.png
+INPUT T7.png
+INPUT ./T7.png
+INPUT ./T7.png
 OUTPUT Cohen et al 2015.nav
 OUTPUT Cohen et al 2015.toc
 OUTPUT Cohen et al 2015.snm
@@ -1221,3 +1281,5 @@ INPUT ./Cohen et al 2015.out
 INPUT ./Cohen et al 2015.out
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
