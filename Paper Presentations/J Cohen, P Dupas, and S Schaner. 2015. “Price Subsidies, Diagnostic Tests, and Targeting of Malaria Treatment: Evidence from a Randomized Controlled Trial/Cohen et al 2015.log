@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.30)  24 MAR 2024 20:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.30)  26 MAR 2024 23:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -716,56 +716,78 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 ] [3
 
 ]
-<F2.png, id=95, 858.20625pt x 682.55pt>
+<F1.png, id=95, 687.56876pt x 688.5725pt>
+File: F1.png Graphic file (type png)
+<use F1.png>
+Package pdftex.def Info: F1.png  used on input line 45.
+(pdftex.def)             Requested size: 245.83282pt x 246.1838pt.
+
+Overfull \vbox (16.91069pt too high) detected at line 45
+ []
+
+[4
+
+ <./F1.png>]
+<F2.png, id=123, 858.20625pt x 682.55pt>
 File: F2.png Graphic file (type png)
 <use F2.png>
-Package pdftex.def Info: F2.png  used on input line 53.
+Package pdftex.def Info: F2.png  used on input line 62.
 (pdftex.def)             Requested size: 153.64493pt x 122.18715pt.
- [4
+ [5
 
- <./F2.png>] [5
+ <./F2.png>] [6
 
 ]
-<F4.png, id=149, 522.95375pt x 593.21625pt>
-File: F4.png Graphic file (type png)
-<use F4.png>
-Package pdftex.def Info: F4.png  used on input line 69.
-(pdftex.def)             Requested size: 245.83617pt x 208.91414pt.
- [6
-
- <./F4.png>]
-<F5.png, id=176, 1019.81pt x 633.36626pt>
-File: F5.png Graphic file (type png)
-<use F5.png>
-Package pdftex.def Info: F5.png  used on input line 75.
-(pdftex.def)             Requested size: 307.28987pt x 190.84248pt.
+<T2.png, id=176, 1046.91125pt x 650.43pt>
+File: T2.png Graphic file (type png)
+<use T2.png>
+Package pdftex.def Info: T2.png  used on input line 80.
+(pdftex.def)             Requested size: 245.83249pt x 208.91597pt.
  [7
 
- <./F5.png>]
-<T3.png, id=204, 492.84125pt x 293.095pt>
-File: T3.png Graphic file (type png)
-<use T3.png>
-Package pdftex.def Info: T3.png  used on input line 81.
-(pdftex.def)             Requested size: 245.83344pt x 208.91731pt.
+ <./T2.png>]
+<F4.png, id=204, 522.95375pt x 593.21625pt>
+File: F4.png Graphic file (type png)
+<use F4.png>
+Package pdftex.def Info: F4.png  used on input line 86.
+(pdftex.def)             Requested size: 245.83617pt x 208.91414pt.
  [8
 
- <./T3.png>]
-<T4.png, id=231, 553.06625pt x 627.34375pt>
-File: T4.png Graphic file (type png)
-<use T4.png>
-Package pdftex.def Info: T4.png  used on input line 88.
-(pdftex.def)             Requested size: 245.831pt x 208.91942pt.
+ <./F4.png>]
+<T3.png, id=231, 492.84125pt x 293.095pt>
+File: T3.png Graphic file (type png)
+<use T3.png>
+Package pdftex.def Info: T3.png  used on input line 94.
+(pdftex.def)             Requested size: 245.83344pt x 208.91731pt.
  [9
 
- <./T4.png>]
-<T7.png, id=258, 646.415pt x 649.42625pt>
-File: T7.png Graphic file (type png)
-<use T7.png>
-Package pdftex.def Info: T7.png  used on input line 94.
-(pdftex.def)             Requested size: 245.82765pt x 208.91068pt.
+ <./T3.png>]
+<F5.png, id=259, 1019.81pt x 633.36626pt>
+File: F5.png Graphic file (type png)
+<use F5.png>
+Package pdftex.def Info: F5.png  used on input line 101.
+(pdftex.def)             Requested size: 307.28987pt x 190.84248pt.
  [10
 
- <./T7.png>]
+ <./F5.png>]
+<T4.png, id=286, 553.06625pt x 627.34375pt>
+File: T4.png Graphic file (type png)
+<use T4.png>
+Package pdftex.def Info: T4.png  used on input line 108.
+(pdftex.def)             Requested size: 245.831pt x 208.91942pt.
+ [11
+
+ <./T4.png>]
+<T7.png, id=313, 646.415pt x 649.42625pt>
+File: T7.png Graphic file (type png)
+<use T7.png>
+Package pdftex.def Info: T7.png  used on input line 114.
+(pdftex.def)             Requested size: 245.82765pt x 208.91068pt.
+ [12
+
+ <./T7.png>] [13
+
+]
 \tf@nav=\write6
 \openout6 = `"Cohen et al 2015.nav"'.
 
@@ -780,18 +802,18 @@ Package rerunfilecheck Info: File `"Cohen et al 2015".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21705 strings out of 476025
- 424992 string characters out of 5790016
+ 21731 strings out of 476025
+ 425243 string characters out of 5790016
  1860388 words of memory out of 5000000
- 41683 multiletter control sequences out of 15000+600000
+ 41701 multiletter control sequences out of 15000+600000
  519037 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,122p,641b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "Cohen et al 2015.pdf" (10 pages, 912087 bytes).
+Output written on "Cohen et al 2015.pdf" (13 pages, 1247755 bytes).
 PDF statistics:
- 309 PDF objects out of 1000 (max. 8388607)
- 268 compressed objects within 3 object streams
- 21 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 391 PDF objects out of 1000 (max. 8388607)
+ 342 compressed objects within 4 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 

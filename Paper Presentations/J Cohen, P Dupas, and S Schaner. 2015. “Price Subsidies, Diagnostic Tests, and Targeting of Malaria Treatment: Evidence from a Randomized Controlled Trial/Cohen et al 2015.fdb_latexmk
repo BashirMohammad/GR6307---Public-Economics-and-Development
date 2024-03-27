@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1711327251 "/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial/Cohen et al 2015.tex" "Cohen et al 2015.pdf" "Cohen et al 2015" 1711327252 0
-  "/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial/Cohen et al 2015.tex" 1711327250 4118 2ab18ef6e8df7b852aaf6fbc18aa81f8 ""
+["pdflatex"] 1711510852 "/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial/Cohen et al 2015.tex" "Cohen et al 2015.pdf" "Cohen et al 2015" 1711510853 0
+  "/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/J Cohen, P Dupas, and S Schaner. 2015. “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment: Evidence from a Randomized Controlled Trial/Cohen et al 2015.tex" 1711510851 5065 52805dfb392a49223cd08c526032b7ed ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -190,13 +190,15 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1698717522 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1698717508 7883455 a5701a8f2d1b2f31aa3ca13e96b0351a ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Cohen et al 2015.aux" 1711327252 2114 a4a09d176936fbbefbc3e2366b47c2bc "pdflatex"
-  "Cohen et al 2015.nav" 1711327252 1109 07396102f9d82bf25877ba7d82798efb "pdflatex"
-  "Cohen et al 2015.out" 1711327251 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Cohen et al 2015.tex" 1711327250 4118 2ab18ef6e8df7b852aaf6fbc18aa81f8 ""
+  "Cohen et al 2015.aux" 1711510853 2501 52068e34249d3649eed5dd920b703da8 "pdflatex"
+  "Cohen et al 2015.nav" 1711510853 1388 37fb167c90003b6656a249083ce3750a "pdflatex"
+  "Cohen et al 2015.out" 1711510852 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Cohen et al 2015.tex" 1711510851 5065 52805dfb392a49223cd08c526032b7ed ""
+  "F1.png" 1711509625 155830 4fab21de0f6b8bccf98697ecd8d7307e ""
   "F2.png" 1711326138 265346 38e82617cd37e1229663fcd7f85865a6 ""
   "F4.png" 1711326301 115965 3f94033332e479009f413aaa09a52f3e ""
   "F5.png" 1711326458 173607 8a8c3bc3694c5380f322e4604fa7bb8f ""
+  "T2.png" 1711510142 448282 15a4ec70f4db8707960fef40f4a794d9 ""
   "T3.png" 1711326720 117312 eaf8aabc45de2e746aac5a8f761782f3 ""
   "T4.png" 1711326917 247823 6df889d5697fe24b39c6fa5b3876626d ""
   "T7.png" 1711327188 313993 bbd9b90cbde9df25b8ba4d538c3c723a ""
