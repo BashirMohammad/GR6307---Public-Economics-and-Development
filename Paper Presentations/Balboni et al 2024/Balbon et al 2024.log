@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.31)  21 MAR 2024 18:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.30)  28 MAR 2024 00:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex"
-(/Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex
+**"/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex"
+(/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
@@ -700,15 +700,15 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 28.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 38.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) [2
@@ -717,11 +717,41 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 
 ] [4
 
-
 ] [5
+
+] [6
+
+] [7
+
+
+] [8
 
 
 ]
+<F1.png, id=225, 874.26625pt x 513.92pt>
+File: F1.png Graphic file (type png)
+<use F1.png>
+Package pdftex.def Info: F1.png  used on input line 135.
+(pdftex.def)             Requested size: 245.83282pt x 144.50827pt.
+<F2.png, id=228, 877.2775pt x 474.77374pt>
+File: F2.png Graphic file (type png)
+<use F2.png>
+Package pdftex.def Info: F2.png  used on input line 135.
+(pdftex.def)             Requested size: 245.83282pt x 133.03716pt.
+<F3.png, id=230, 886.31125pt x 604.2575pt>
+File: F3.png Graphic file (type png)
+<use F3.png>
+Package pdftex.def Info: F3.png  used on input line 135.
+(pdftex.def)             Requested size: 245.83282pt x 167.59584pt.
+ [9
+
+ <./F1.png>] [10
+
+
+ <./F2.png>] [11
+
+
+ <./F3.png>]
 \tf@nav=\write6
 \openout6 = `"Balbon et al 2024.nav"'.
 
@@ -736,18 +766,18 @@ Package rerunfilecheck Info: File `"Balbon et al 2024".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21676 strings out of 476025
- 424804 string characters out of 5790016
- 1862388 words of memory out of 5000000
- 41669 multiletter control sequences out of 15000+600000
+ 21749 strings out of 476025
+ 425755 string characters out of 5790016
+ 1863388 words of memory out of 5000000
+ 41721 multiletter control sequences out of 15000+600000
  522831 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,122p,633b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,14n,122p,631b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "Balbon et al 2024.pdf" (5 pages, 55728 bytes).
+Output written on "Balbon et al 2024.pdf" (11 pages, 424872 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
- 11 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 339 PDF objects out of 1000 (max. 8388607)
+ 302 compressed objects within 4 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

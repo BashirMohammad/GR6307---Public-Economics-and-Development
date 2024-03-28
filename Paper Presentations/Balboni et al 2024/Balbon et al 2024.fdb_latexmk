@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1711060059 "/Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex" "Balbon et al 2024.pdf" "Balbon et al 2024" 1711060060 0
-  "/Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex" 1711060059 3160 eafc84c7d21bf4a1b0905750b77c4f7e ""
+["pdflatex"] 1711600124 "/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex" "Balbon et al 2024.pdf" "Balbon et al 2024" 1711600125 0
+  "/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex" 1711600124 6776 3e4c58a9a90f99fc98a9987fdfbba0a8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -189,13 +189,16 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty" 1655066402 56148 51a9a8571c07b9921892ae11063ae853 ""
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
-  "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1698774017 4623355 b8cad38412faebe1ce5b780a45db67bd ""
-  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1698774010 7883459 28f04a07d4ae483841dc6584e40cb388 ""
+  "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1698717522 4623355 b8cad38412faebe1ce5b780a45db67bd ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1698717508 7883455 a5701a8f2d1b2f31aa3ca13e96b0351a ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Balbon et al 2024.aux" 1711060060 1483 dd4a449536302f9c2f2e70178c5f5fbe "pdflatex"
-  "Balbon et al 2024.nav" 1711060060 659 5ad15b482dfa07d27f27f38ce069006a "pdflatex"
-  "Balbon et al 2024.out" 1711060060 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Balbon et al 2024.tex" 1711060059 3160 eafc84c7d21bf4a1b0905750b77c4f7e ""
+  "Balbon et al 2024.aux" 1711600125 2714 0f100c3cdbfdefad29597d935449b7cd "pdflatex"
+  "Balbon et al 2024.nav" 1711600125 1196 27ec65c608c653d25b834c87dcce9458 "pdflatex"
+  "Balbon et al 2024.out" 1711600124 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Balbon et al 2024.tex" 1711600124 6776 3e4c58a9a90f99fc98a9987fdfbba0a8 ""
+  "F1.png" 1711596270 207356 da3aa3ad3a4cbc68b63c94a800e2b5cc ""
+  "F2.png" 1711597952 146696 11f186ce244d04a01bb2c2ae3d2fa692 ""
+  "F3.png" 1711598223 259215 9d71d3b19c91f00e91679dc224a74906 ""
   (generated)
   "Balbon et al 2024.aux"
   "Balbon et al 2024.log"

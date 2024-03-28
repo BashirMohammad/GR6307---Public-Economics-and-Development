@@ -1,8 +1,8 @@
-PWD /Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024
+PWD /Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex
+INPUT /Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Balboni et al 2024/Balbon et al 2024.tex
 OUTPUT Balbon et al 2024.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
@@ -1257,6 +1257,21 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
+INPUT ./F1.png
+INPUT ./F1.png
+INPUT F1.png
+INPUT ./F1.png
+INPUT ./F1.png
+INPUT ./F2.png
+INPUT ./F2.png
+INPUT F2.png
+INPUT ./F2.png
+INPUT ./F2.png
+INPUT ./F3.png
+INPUT ./F3.png
+INPUT F3.png
+INPUT ./F3.png
+INPUT ./F3.png
 OUTPUT Balbon et al 2024.nav
 OUTPUT Balbon et al 2024.toc
 OUTPUT Balbon et al 2024.snm
