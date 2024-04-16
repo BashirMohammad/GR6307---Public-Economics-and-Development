@@ -1,9 +1,9 @@
-PWD /Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Bandieran et al 2014
+PWD /Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Ashraf et al 2014
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Bandieran et al 2014/Bandiera et al 2014.tex
-OUTPUT Bandiera et al 2014.log
+INPUT /Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Ashraf et al 2014/Ashraf et al 2014.tex
+OUTPUT Ashraf et al 2014.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
@@ -1081,7 +1081,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefaul
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.pdf
-OUTPUT Bandiera et al 2014.pdf
+OUTPUT Ashraf et al 2014.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.20.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonbook.20.pdf
@@ -1131,10 +1131,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.de
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./Bandiera et al 2014.aux
-INPUT Bandiera et al 2014.aux
-INPUT Bandiera et al 2014.aux
-OUTPUT Bandiera et al 2014.aux
+INPUT ./Ashraf et al 2014.aux
+INPUT Ashraf et al 2014.aux
+INPUT Ashraf et al 2014.aux
+OUTPUT Ashraf et al 2014.aux
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -1170,17 +1170,17 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT ./Bandiera et al 2014.out
-INPUT Bandiera et al 2014.out
-INPUT ./Bandiera et al 2014.out
-INPUT Bandiera et al 2014.out
-INPUT ./Bandiera et al 2014.out
-INPUT Bandiera et al 2014.out
-INPUT ./Bandiera et al 2014.out
-INPUT Bandiera et al 2014.out
-INPUT ./Bandiera et al 2014.out
-INPUT ./Bandiera et al 2014.out
-OUTPUT Bandiera et al 2014.out
+INPUT ./Ashraf et al 2014.out
+INPUT Ashraf et al 2014.out
+INPUT ./Ashraf et al 2014.out
+INPUT Ashraf et al 2014.out
+INPUT ./Ashraf et al 2014.out
+INPUT Ashraf et al 2014.out
+INPUT ./Ashraf et al 2014.out
+INPUT Ashraf et al 2014.out
+INPUT ./Ashraf et al 2014.out
+INPUT ./Ashraf et al 2014.out
+OUTPUT Ashraf et al 2014.out
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
@@ -1205,9 +1205,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
-INPUT ./Bandiera et al 2014.nav
-INPUT Bandiera et al 2014.nav
-INPUT Bandiera et al 2014.nav
+INPUT ./Ashraf et al 2014.nav
+INPUT Ashraf et al 2014.nav
+INPUT Ashraf et al 2014.nav
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
@@ -1249,12 +1249,52 @@ INPUT F1.png
 INPUT ./F1.png
 INPUT ./F1.png
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
-OUTPUT Bandiera et al 2014.nav
-OUTPUT Bandiera et al 2014.toc
-OUTPUT Bandiera et al 2014.snm
-INPUT Bandiera et al 2014.aux
-INPUT ./Bandiera et al 2014.out
-INPUT ./Bandiera et al 2014.out
+INPUT ./T1.png
+INPUT ./T1.png
+INPUT T1.png
+INPUT ./T1.png
+INPUT ./T1.png
+INPUT ./F2.png
+INPUT ./F2.png
+INPUT F2.png
+INPUT ./F2.png
+INPUT ./F2.png
+INPUT ./T2.png
+INPUT ./T2.png
+INPUT T2.png
+INPUT ./T2.png
+INPUT ./T2.png
+INPUT ./F4.png
+INPUT ./F4.png
+INPUT F4.png
+INPUT ./F4.png
+INPUT ./F4.png
+INPUT ./T3.png
+INPUT ./T3.png
+INPUT T3.png
+INPUT ./T3.png
+INPUT ./T3.png
+INPUT ./T4.png
+INPUT ./T4.png
+INPUT T4.png
+INPUT ./T4.png
+INPUT ./T4.png
+INPUT ./T5.png
+INPUT ./T5.png
+INPUT T5.png
+INPUT ./T5.png
+INPUT ./T5.png
+INPUT ./F5.png
+INPUT ./F5.png
+INPUT F5.png
+INPUT ./F5.png
+INPUT ./F5.png
+OUTPUT Ashraf et al 2014.nav
+OUTPUT Ashraf et al 2014.toc
+OUTPUT Ashraf et al 2014.snm
+INPUT Ashraf et al 2014.aux
+INPUT ./Ashraf et al 2014.out
+INPUT ./Ashraf et al 2014.out
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb

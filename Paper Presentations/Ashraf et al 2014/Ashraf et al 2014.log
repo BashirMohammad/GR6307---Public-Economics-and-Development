@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.30)  14 APR 2024 19:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.31)  16 APR 2024 17:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Bandieran et al 2014/Bandiera et al 2014.tex"
-(/Users/muhammadbashir/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Bandieran et al 2014/Bandiera et al 2014.tex
+**"/Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Ashraf et al 2014/Ashraf et al 2014.tex"
+(/Users/mb5061/Documents/GitHub/GR6307---Public-Economics-and-Development/Paper Presentations/Ashraf et al 2014/Ashraf et al 2014.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
@@ -545,8 +545,33 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count334
 \l__pdf_internal_box=\box76
-) (./Bandiera et al 2014.aux)
-\openout1 = `"Bandiera et al 2014.aux"'.
+) (./Ashraf et al 2014.aux
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+)
+\openout1 = `"Ashraf et al 2014.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -627,9 +652,9 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 12.
- (./Bandiera et al 2014.out) (./Bandiera et al 2014.out)
+ (./Ashraf et al 2014.out) (./Ashraf et al 2014.out)
 \@outlinefile=\write5
-\openout5 = `"Bandiera et al 2014.out"'.
+\openout5 = `"Ashraf et al 2014.out"'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 12.
@@ -692,7 +717,7 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./Bandiera et al 2014.nav)
+) (./Ashraf et al 2014.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 16.
@@ -719,7 +744,7 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 <F1.png, id=95, 1112.155pt x 789.95125pt>
 File: F1.png Graphic file (type png)
 <use F1.png>
-Package pdftex.def Info: F1.png  used on input line 70.
+Package pdftex.def Info: F1.png  used on input line 68.
 (pdftex.def)             Requested size: 245.83282pt x 174.60945pt.
  [4
 
@@ -727,32 +752,149 @@ Package pdftex.def Info: F1.png  used on input line 70.
 
 
  <./F1.png>]
+<T1.png, id=150, 1370.11874pt x 607.26875pt>
+File: T1.png Graphic file (type png)
+<use T1.png>
+Package pdftex.def Info: T1.png  used on input line 80.
+(pdftex.def)             Requested size: 307.28987pt x 136.19406pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.80 \end{frame}
+                 [6
+
+ <./T1.png>]
+<F2.png, id=177, 558.085pt x 447.6725pt>
+File: F2.png Graphic file (type png)
+<use F2.png>
+Package pdftex.def Info: F2.png  used on input line 88.
+(pdftex.def)             Requested size: 307.28987pt x 246.5007pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.88 \end{frame}
+                
+Overfull \vbox (30.82759pt too high) detected at line 88
+ []
+
+[7
+
+ <./F2.png>]
+<T2.png, id=205, 1096.095pt x 806.01125pt>
+File: T2.png Graphic file (type png)
+<use T2.png>
+Package pdftex.def Info: T2.png  used on input line 97.
+(pdftex.def)             Requested size: 307.28987pt x 225.96448pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.97 \end{frame}
+                
+Overfull \vbox (10.29137pt too high) detected at line 97
+ []
+
+[8
+
+ <./T2.png>]
+<F4.png, id=232, 1435.3625pt x 468.75125pt>
+File: F4.png Graphic file (type png)
+<use F4.png>
+Package pdftex.def Info: F4.png  used on input line 105.
+(pdftex.def)             Requested size: 307.28987pt x 100.35039pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.105 \end{frame}
+                  [9
+
+ <./F4.png>]
+<T3.png, id=260, 1101.11375pt x 560.0925pt>
+File: T3.png Graphic file (type png)
+<use T3.png>
+Package pdftex.def Info: T3.png  used on input line 113.
+(pdftex.def)             Requested size: 307.28987pt x 156.3035pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.113 \end{frame}
+                  [10
+
+ <./T3.png>]
+<T4.png, id=287, 551.05875pt x 340.27126pt>
+File: T4.png Graphic file (type png)
+<use T4.png>
+Package pdftex.def Info: T4.png  used on input line 121.
+(pdftex.def)             Requested size: 307.28987pt x 189.7562pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.121 \end{frame}
+                  [11
+
+ <./T4.png>]
+<T5.png, id=314, 1122.1925pt x 594.22pt>
+File: T5.png Graphic file (type png)
+<use T5.png>
+Package pdftex.def Info: T5.png  used on input line 129.
+(pdftex.def)             Requested size: 307.28987pt x 162.7083pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.129 \end{frame}
+                  [12
+
+ <./T5.png>]
+<F5.png, id=341, 563.10374pt x 362.35374pt>
+File: F5.png Graphic file (type png)
+<use F5.png>
+Package pdftex.def Info: F5.png  used on input line 140.
+(pdftex.def)             Requested size: 307.28987pt x 197.7415pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \end{frame}
+                  [13
+
+ <./F5.png>] [14
+
+]
 \tf@nav=\write6
-\openout6 = `"Bandiera et al 2014.nav"'.
+\openout6 = `"Ashraf et al 2014.nav"'.
 
 \tf@toc=\write7
-\openout7 = `"Bandiera et al 2014.toc"'.
+\openout7 = `"Ashraf et al 2014.toc"'.
 
 \tf@snm=\write8
-\openout8 = `"Bandiera et al 2014.snm"'.
+\openout8 = `"Ashraf et al 2014.snm"'.
 
- (./Bandiera et al 2014.aux)
-Package rerunfilecheck Info: File `"Bandiera et al 2014".out' has not changed.
+ (./Ashraf et al 2014.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `"Ashraf et al 2014".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21665 strings out of 476025
- 424400 string characters out of 5790016
+ 21756 strings out of 476025
+ 425238 string characters out of 5790016
  1859388 words of memory out of 5000000
- 41657 multiletter control sequences out of 15000+600000
+ 41723 multiletter control sequences out of 15000+600000
  519342 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,122p,508b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,14n,122p,505b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "Bandiera et al 2014.pdf" (5 pages, 375102 bytes).
+Output written on "Ashraf et al 2014.pdf" (14 pages, 1012553 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
- 12 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 419 PDF objects out of 1000 (max. 8388607)
+ 367 compressed objects within 4 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
